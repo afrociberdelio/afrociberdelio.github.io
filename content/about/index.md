@@ -12,7 +12,7 @@ showAuthor: false
 
 <img src="/img/profile/luanmds-profile.jpg" alt="Foto de perfil de Luan Mello" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
 
-Sou Engenheiro de Software com foco em Sistemas Distribuídos e Arquitetura de Backend. Com passagens por empresas como Stone, Saphira e BTG Pactual, especializei-me na construção de microsserviços de alta escala e fluxos de dados resilientes utilizando tecnologias como .NET, Kafka, Azure/AWS, entre outras.
+Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, Kafka, Azure/AWS/Google, entre outras.
 
 ## Tech Stack & Expertise
 - .NET & C#: Desenvolvimento de serviços de missão crítica.
