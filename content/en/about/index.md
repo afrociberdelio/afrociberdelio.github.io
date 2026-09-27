@@ -25,8 +25,7 @@ I write to document my studies, share practical day-to-day learnings, and help o
 ## Find me online
 
 <div class="not-prose" style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.9rem; margin-top: 0.5rem; font-size: 1.5rem; line-height: 1;">
-  <a href="https://www.linkedin.com/in/luanmds/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">{{< icon linkedin >}}</a>
-  <a href="https://github.com/luanmds" target="_blank" rel="noopener noreferrer" aria-label="GitHub">{{< icon github >}}</a>
-  <a href="https://luanmds.medium.com/" target="_blank" rel="noopener noreferrer" aria-label="Medium">{{< icon medium >}}</a>
-  <a href="https://dev.to/luanmds" target="_blank" rel="noopener noreferrer" aria-label="Dev.to">{{< icon dev >}}</a>
+  <a href="https://www.linkedin.com/in/mikaeldevs/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">{{< icon linkedin >}}</a>
+  <a href="https://github.com/afrociberdelio" target="_blank" rel="noopener noreferrer" aria-label="GitHub">{{< icon github >}}</a>
+  <a href="https://www.instagram.com/mikaeldevs/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">{{< icon instagram >}}</a>
 </div>

@@ -5,7 +5,7 @@
 Este mapa lista apenas diretórios rastreados e relevantes no repositório. Pastas ignoradas por `.gitignore` ficam de fora.
 
 ```
-luanmds.github.io/
+mikaeldevs.github.io/
 ├── .agents/            ← assets compartilhados para agentes (skills locais em `.agents/skills/`)
 ├── .docs/              ← documentação de contexto durável do projeto
 ├── .github/            ← GitHub Actions workflows

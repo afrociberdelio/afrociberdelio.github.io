@@ -8,7 +8,7 @@ Personal bilingual Hugo blog published on GitHub Pages.
 
 - Default language: Brazilian Portuguese at `/`
 - English content: `/en/`
-- Production URL: `https://luanmds.github.io/`
+- Production URL: `https://mikaelsouza.com/`
 - Canonical context: `.docs/`
 
 ## Non-Negotiables

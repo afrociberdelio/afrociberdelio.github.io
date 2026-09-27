@@ -1,9 +1,9 @@
-# 📝 luanmds.github.io
+# 📝 mikaelsouza.com
 
 A bilingual static blog (Brazilian Portuguese + English) for publishing technical articles with co-located images. Powered by Hugo extended, themed with Congo, and hosted on GitHub Pages.
 
-**🌐 Live:** [https://luanmds.github.io](https://luanmds.github.io)  
-**📦 Repository:** [github.com/luanmds/luanmds.github.io](https://github.com/luanmds/luanmds.github.io)
+**🌐 Live:** [https://mikaelsouza.com](https://mikaelsouza.com)  
+**📦 Repository:** [github.com/afrociberdelio/mikaeldevs.github.io](https://github.com/afrociberdelio/mikaeldevs.github.io)
 
 ---
 
@@ -20,8 +20,8 @@ A bilingual static blog (Brazilian Portuguese + English) for publishing technica
 Clone the repository with all submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/luanmds/luanmds.github.io.git
-cd luanmds.github.io
+git clone --recurse-submodules https://github.com/afrociberdelio/mikaeldevs.github.io.git
+cd mikaeldevs.github.io
 ```
 
 Start the local dev server:
@@ -113,13 +113,12 @@ Detailed documentation is in `.docs/`. Use this table to find what you need:
 
 **👤 Author:** Luan Mello (Backend engineer, .NET specialist, distributed systems)
 
-- 🐙 GitHub: [@luanmds](https://github.com/luanmds)
-- 💼 LinkedIn: [luanmds](https://www.linkedin.com/in/luanmds/)
-- ✍️ Medium: [@luanmds](https://luanmds.medium.com/)
-- 📰 Dev.to: [@luanmds](https://dev.to/luanmds)
+- 🐙 GitHub: [@afrociberdelio](https://github.com/afrociberdelio)
+- 💼 LinkedIn: [mikaeldevs](https://www.linkedin.com/in/mikaeldevs/)
+- 📸 Instagram: [@mikaeldevs](https://www.instagram.com/mikaeldevs/)
 
-**🌐 Live Blog:** [https://luanmds.github.io](https://luanmds.github.io)  
-**📦 GitHub Repo:** [github.com/luanmds/luanmds.github.io](https://github.com/luanmds/luanmds.github.io)
+**🌐 Live Blog:** [https://mikaelsouza.com](https://mikaelsouza.com)  
+**📦 GitHub Repo:** [github.com/afrociberdelio/mikaeldevs.github.io](https://github.com/afrociberdelio/mikaeldevs.github.io)
 
 ---
 

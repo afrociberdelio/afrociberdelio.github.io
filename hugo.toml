@@ -1,5 +1,5 @@
-baseURL = "https://luanmds.github.io/"
-title = "LuanMDS | Software Enginner"
+baseURL = "https://mikaelsouza.com/"
+title = "Mikael | Software Enginner"
 theme = "congo"
 
 enableRobotsTXT = true
@@ -114,7 +114,7 @@ summaryLength = 0
     showTermCount = true
 
   [params.giscus]
-    repo = "luanmds/luanmds.github.io"
+    repo = "afrociberdelio/mikaeldevs.github.io"
     repoId = "R_kgDOSJA4eg"
     category = "Announcements"
     categoryId = "DIC_kwDOSJA4es4C7u__"
@@ -126,7 +126,7 @@ summaryLength = 0
     theme = "preferred_color_scheme"
 
   [params.goatcounter]
-    code = "luanmds"
+    code = "afrociberdelio"
 
 [languages]
   [languages.pt]
@@ -134,20 +134,19 @@ summaryLength = 0
     languageName = "Português"
     languageDirection = "ltr"
     weight = 1
-    title = "LuanMDS | Software Enginner"
+    title = "Mikael | Software Enginner"
     [languages.pt.params]
       dateFormat = "2 Jan 2006"
       mainSections = ["posts"]
       description = "Blog sobre tecnologia, desenvolvimento de software e mais."
       [languages.pt.params.author]
-        name = "Luan Mello"
-        headline = "Engenheiro de software back-end no Rio de Janeiro, focado em .NET, arquitetura distribuida e boas praticas de engenharia."
+        name = "Mikael Souza"
+        headline = "Platform engineer em Portugal, focado em Kubernetes, arquitetura distribuida e boas praticas de engenharia."
         bio = "Documentando meus estudos através de artigos e tutoriais sobre os principais temas de Engenharia de Software"
         links = [
-          { github = "https://github.com/luanmds" },
-          { linkedin = "https://www.linkedin.com/in/luanmds/" },
-          { medium = "https://luanmds.medium.com/" },
-          { dev = "https://dev.to/luanmds" },
+          { github = "https://github.com/afrociberdelio" },
+          { linkedin = "https://www.linkedin.com/in/mikaeldevs/" },
+          { instagram = "https://www.instagram.com/mikaeldevs/" },
         ]
     [languages.pt.menus]
       [[languages.pt.menus.main]]
@@ -168,7 +167,7 @@ summaryLength = 0
         weight = 40
       [[languages.pt.menus.main]]
         identifier = "github"
-        url = "https://github.com/luanmds"
+        url = "https://github.com/afrociberdelio"
         weight = 45
         [languages.pt.menus.main.params]
           icon = "github"
@@ -191,20 +190,19 @@ summaryLength = 0
     languageName = "English"
     languageDirection = "ltr"
     weight = 2
-    title = "LuanMDS | Software Enginner"
+    title = "Mikael | Software Enginner"
     [languages.en.params]
       dateFormat = "Jan 2, 2006"
       mainSections = ["posts"]
       description = "Blog about technology, software development and more."
       [languages.en.params.author]
-        name = "Luan Mello"
-        headline = "Back-end software engineer from Rio de Janeiro, focused on .NET, distributed architecture, and pragmatic engineering practices."
+        name = "Mikael Souza"
+        headline = "Platform engineer from Recife, focused on Kubernetes, distributed architecture, and pragmatic engineering practices."
         bio = "Documenting my studies through articles and tutorials on key Software Engineering topics."
         links = [
-          { github = "https://github.com/luanmds" },
-          { linkedin = "https://www.linkedin.com/in/luanmds/" },
-          { medium = "https://luanmds.medium.com/" },
-          { dev = "https://dev.to/luanmds" },
+          { github = "https://github.com/afrociberdelio" },
+          { linkedin = "https://www.linkedin.com/in/mikaeldevs/" },
+          { instagram = "https://www.instagram.com/mikaeldevs/" },
         ]
     [languages.en.menus]
       [[languages.en.menus.main]]
@@ -225,7 +223,7 @@ summaryLength = 0
         weight = 40
       [[languages.en.menus.main]]
         identifier = "github"
-        url = "https://github.com/luanmds"
+        url = "https://github.com/afrociberdelio"
         weight = 45
         [languages.en.menus.main.params]
           icon = "github"

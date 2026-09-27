@@ -22,12 +22,11 @@ O autor. Leitores externos são bem-vindos, mas não são o critério primário 
 
 ## URL de produção
 
-`https://luanmds.github.io/`
+`https://mikaelsouza.com/`
 
 ## Autor
 
 Luan Mello
-- GitHub: [luanmds](https://github.com/luanmds)
-- LinkedIn: [luanmds](https://www.linkedin.com/in/luanmds/)
-- Medium: [luanmds](https://luanmds.medium.com/)
-- Dev.to: [luanmds](https://dev.to/luanmds)
+- GitHub: [afrociberdelio](https://github.com/afrociberdelio)
+- LinkedIn: [mikaeldevs](https://www.linkedin.com/in/mikaeldevs/)
+- Instagram: [mikaeldevs](https://www.instagram.com/mikaeldevs/)

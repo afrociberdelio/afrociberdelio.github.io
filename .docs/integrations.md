@@ -29,7 +29,7 @@
 
 ```toml
 [params.giscus]
-  repo = "luanmds/luanmds.github.io"
+  repo = "afrociberdelio/mikaeldevs.github.io"
   repoId = "R_kgDOSJA4eg"
   category = "Announcements"
   categoryId = "DIC_kwDOSJA4es4C7u__"
