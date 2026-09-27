@@ -10,7 +10,7 @@ showBreadcrumbs: false
 showAuthor: false
 ---
 
-<img src="/img/profile/luanmds-profile.jpg" alt="Foto de perfil de Luan Mello" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
+<img src="/img/profile/avataaars.png" alt="Foto de perfil de Mikael Souza" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
 
 Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, Kafka, Azure/AWS/Google, entre outras.
 
