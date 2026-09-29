@@ -13,7 +13,7 @@ showComments: false
 
 <img src="/img/profile/avataaars.png" alt="Foto de perfil de Mikael Souza" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
 
-Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, ArgoCD(Gitops), Terraform, Azure/AWS/Google, entre outras.
+Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, ArgoCD(Gitops), Terraform, Azure/AWS/Google/OCI, entre outras.
 
 ## Tech Stack & Expertise
 - Python: Desenvolvimento de APIs para automatizar e integrar sistemas.
