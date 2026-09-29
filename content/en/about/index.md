@@ -8,6 +8,7 @@ showTableOfContents: false
 showPagination: false
 showBreadcrumbs: false
 showAuthor: false
+showComments: false
 ---
 
 <img src="/img/profile/avataaars.png" alt="Profile photo of Mikael Souza" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />

@@ -78,10 +78,10 @@
         {{ partial "author.html" . }}
       {{ end }}
       {{ partial "sharing-links.html" . }}
-      {{ if .Params.showPagination | default (.Site.Params.article.showPagination | default true) }}
+      {{ if cond (isset .Params "showpagination") .Params.showPagination (.Site.Params.article.showPagination | default true) }}
         {{ partial "article-pagination.html" . }}
       {{ end }}
-      {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}
+      {{ if cond (isset .Params "showcomments") .Params.showComments (.Site.Params.article.showComments | default false) }}
         {{ if templates.Exists "_partials/comments.html" }}
           <div class="pt-3">
             <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />

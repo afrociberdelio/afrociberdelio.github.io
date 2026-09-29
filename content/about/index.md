@@ -8,18 +8,19 @@ showTableOfContents: false
 showPagination: false
 showBreadcrumbs: false
 showAuthor: false
+showComments: false
 ---
 
 <img src="/img/profile/avataaars.png" alt="Foto de perfil de Mikael Souza" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
 
-Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, Kafka, Azure/AWS/Google, entre outras.
+Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, ArgoCD(Gitops), Terraform, Azure/AWS/Google, entre outras.
 
 ## Tech Stack & Expertise
-- .NET & C#: Desenvolvimento de serviços de missão crítica.
-- Arquitetura: Event-Driven, CQRS, Event Sourcing e Modelagem C4/UML.
-- Infraestrutura: Cloud (Azure/AWS), Docker e mensageria com Kafka.
-- Qualidade: Clean Code, testes automatizados e práticas de engenharia moderna.
-- Outras tecnologias: Python, JavaScript/TypeScript...
+- Python: Desenvolvimento de APIs para automatizar e integrar sistemas.
+- Arquitetura: Event-Driven, Data-Driven, UML.
+- Infraestrutura: Linux, Kubernetes, Cloud (Azure/AWS/Google/OCI), Terraform, ArgoCD, Github Actions.
+- Qualidade: Clean Code e práticas de engenharia moderna.
+- Outras tecnologias: Go, Powershell...
 
 Escrevo para documentar meus estudos compartilhando conhecimentos aplicados no dia a dia e ajudando outras pessoas a tomar melhores decisões de engenharia.
 
