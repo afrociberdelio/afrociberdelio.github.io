@@ -13,7 +13,7 @@ showComments: false
 
 <img src="/img/profile/avataaars.png" alt="Profile photo of Mikael Souza" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
 
-I'm a Software Engineer from Rio de Janeiro, Brazil, focused on Distributed Systems and Backend Architecture. With experience at companies like Stone, Saphira, and BTG Pactual, I specialized in building large-scale microservices and resilient data flows using technologies such as .NET, Kafka, Azure/AWS, and related tools.
+I am a Platform Engineer specializing in distributed systems and architecture. Having worked at companies such as Natura and Neurotech, I have specialized in building resilient applications using technologies like Kubernetes, ArgoCD (GitOps), Terraform, and major cloud providers (Azure, AWS, Google, OCI), among others.
 
 ## Tech Stack & Expertise
 - .NET & C#: Development of mission-critical services.
