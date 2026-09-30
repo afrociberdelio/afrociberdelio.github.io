@@ -16,13 +16,13 @@ showComments: false
 Sou Platform engineer com foco em Sistemas Distribuídos e Arquitetura. Com passagens por empresas como Natura e Neurotech, especializei-me na construção de aplicações resilientes utilizando tecnologias como Kubernetes, ArgoCD(Gitops), Terraform, Azure/AWS/Google/OCI, entre outras.
 
 ## Tech Stack & Expertise
-- Python: Desenvolvimento de APIs para automatizar e integrar sistemas.
-- Arquitetura: Event-Driven, Data-Driven, UML.
-- Infraestrutura: Linux, Kubernetes, Cloud (Azure/AWS/Google/OCI), Terraform, ArgoCD, Github Actions.
-- Qualidade: Clean Code e práticas de engenharia moderna.
-- Outras tecnologias: Go, Powershell...
+• Python: API development for system automation and integration.
+• Architecture: Event-Driven, Data-Driven, and UML.
+• Infrastructure: Linux, Kubernetes, Multi-Cloud (Azure, AWS, Google, OCI), Terraform, ArgoCD, and GitHub Actions.
+• Quality: Clean Code and modern software engineering practices.
+• Other Technologies: Go, PowerShell...
 
-Escrevo para documentar meus estudos compartilhando conhecimentos aplicados no dia a dia e ajudando outras pessoas a tomar melhores decisões de engenharia.
+I write to document my studies, sharing hands-on knowledge from my daily work to help others make better engineering decisions.
 
 ## Conecte-se comigo
 
