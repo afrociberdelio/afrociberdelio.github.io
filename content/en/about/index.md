@@ -13,15 +13,16 @@ showComments: false
 
 <img src="/img/profile/avataaars.png" alt="Profile photo of Mikael Souza" style="width: 200px; height: 200px; border-radius: 9999px; object-fit: cover; margin: 0 auto;" />
 
-I am a Platform Engineer specializing in distributed systems and architecture. Having worked at companies such as Natura and Neurotech, I have specialized in building resilient applications using technologies like Kubernetes, ArgoCD (GitOps), Terraform, and major cloud providers (Azure, AWS, Google, OCI), among others.
+I am a Platform Engineer specializing in distributed systems and architecture. During my time at companies such as Natura and Neurotech, I focused on building resilient applications using technologies like Kubernetes, ArgoCD (GitOps), Terraform, and major cloud providers (Azure, AWS, Google, OCI), among others.
 
 ## Tech Stack & Expertise
-- .NET & C#: Development of mission-critical services.
-- Architecture: Event-Driven, CQRS, Event Sourcing, and C4/UML modeling.
-- Infrastructure: Cloud (Azure/AWS), Docker, and Kafka-based messaging.
-- Quality: Clean Code, automated testing, and modern engineering practices.
+• Python: API development for system automation and integration.
+• Architecture: Event-Driven, Data-Driven, and UML.
+• Infrastructure: Linux, Kubernetes, Multi-Cloud (Azure, AWS, Google, OCI), Terraform, ArgoCD, and GitHub Actions.
+• Quality: Clean Code and modern software engineering practices.
+• Other Technologies: Go, PowerShell...
 
-I write to document my studies, share practical day-to-day learnings, and help other engineers make better architecture and software design decisions.
+I write to document my studies, sharing hands-on knowledge from my daily work to help others make better engineering decisions.
 
 ## Find me online
 
